@@ -44,8 +44,11 @@ App/
 
 ### 1. Clone the Repository
 
+
+git clone
+
+[https://github.com/KB2305/Smart-job-application-tracker-API]
 ```bash
-git clone <your-repo-link>
 cd job-application-tracker
 ```
 
